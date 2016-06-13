@@ -1,0 +1,28 @@
+create database SCM;
+
+create table users
+(
+s_id int primary key identity(1,1),
+name varchar(25) not null,
+pw varchar(10) not null
+
+);
+
+create table product
+(
+p_id int primary key identity(1,1),
+name varchar(25) not null,
+price int not null
+);
+
+select * from users;
+select * from product;
+
+
+insert into users values('Zia','456');
+insert into product values('Scanner',20000);
+
+
+
+
+

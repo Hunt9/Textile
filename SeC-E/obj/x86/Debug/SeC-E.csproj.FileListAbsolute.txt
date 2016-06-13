@@ -1,0 +1,47 @@
+c:\users\user\documents\visual studio 2010\Projects\SeC-E\SeC-E\bin\Debug\SeC-E.exe
+c:\users\user\documents\visual studio 2010\Projects\SeC-E\SeC-E\bin\Debug\SeC-E.pdb
+c:\users\user\documents\visual studio 2010\Projects\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Form2.resources
+c:\users\user\documents\visual studio 2010\Projects\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\SeC-E\SeC-E\obj\x86\Debug\SeC-E.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\SeC-E\SeC-E\obj\x86\Debug\SeC-E.exe
+c:\users\user\documents\visual studio 2010\Projects\SeC-E\SeC-E\obj\x86\Debug\SeC-E.pdb
+C:\Users\student\Desktop\SeC-E\SeC-E\SeC-E\bin\Debug\SeC-E.exe.config
+C:\Users\Champ\Desktop\New Folder (5)\SeC-E\SeC-E\SeC-E\bin\Debug\SeC-E.exe.config
+C:\Users\Champ\Desktop\New Folder (5)\SeC-E\SeC-E\SeC-E\bin\Debug\Database1.mdf
+C:\Users\Champ\Desktop\New Folder (5)\SeC-E\SeC-E\SeC-E\bin\Debug\Database1_log.ldf
+C:\Users\Champ\Desktop\New Folder (5)\SeC-E\SeC-E\SeC-E\bin\Debug\SeC-E.exe
+C:\Users\Champ\Desktop\New Folder (5)\SeC-E\SeC-E\SeC-E\bin\Debug\SeC-E.pdb
+C:\Users\Champ\Desktop\New Folder (5)\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Form1.resources
+C:\Users\Champ\Desktop\New Folder (5)\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Form2.resources
+C:\Users\Champ\Desktop\New Folder (5)\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Form3.resources
+C:\Users\Champ\Desktop\New Folder (5)\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Form4.resources
+C:\Users\Champ\Desktop\New Folder (5)\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Form5.resources
+C:\Users\Champ\Desktop\New Folder (5)\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Form6.resources
+C:\Users\Champ\Desktop\New Folder (5)\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Form7.resources
+C:\Users\Champ\Desktop\New Folder (5)\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Properties.Resources.resources
+C:\Users\Champ\Desktop\New Folder (5)\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC-E.csproj.GenerateResource.Cache
+C:\Users\Champ\Desktop\New Folder (5)\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC-E.exe
+C:\Users\Champ\Desktop\New Folder (5)\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC-E.pdb
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.add_emp.resources
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.employee.resources
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Login.resources
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Form2.resources
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.lot.resources
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.product.resources
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Sale.resources
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Stock.resources
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.User.resources
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Form4.resources
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Form5.resources
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Form6.resources
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Form7.resources
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC_E.Properties.Resources.resources
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC-E.csproj.GenerateResource.Cache
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\bin\Debug\Database1.mdf
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\bin\Debug\Database1_log.ldf
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\bin\Debug\SeC-E.exe.config
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\bin\Debug\SeC-E.exe
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\bin\Debug\SeC-E.pdb
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC-E.exe
+C:\Users\Champ\Desktop\SeC-E\SeC-E\SeC-E\obj\x86\Debug\SeC-E.pdb
